@@ -1,1 +1,1 @@
-# Vending-machine-project
+- 벤딩머신을 만들어 
